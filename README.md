@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomkalervo
-- 👀 I’m interested in embedded electronics
+- 👀 I’m interested in software design and communication protocols.
 - 🌱 I’m currently learning at KTH.
 - 💞️ I’m looking to collaborate on ... everything!
 - 📫 How to reach me tomk4@kth.se
