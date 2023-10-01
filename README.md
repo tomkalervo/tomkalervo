@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tomkalervo
-- 👀 I’m interested in software design and communication protocols.
-- 🌱 I’m currently learning at KTH.
-- 💞️ I’m looking to collaborate on ... everything!
-- 📫 How to reach me tomk4@kth.se
+- 👀 I’m interested in Algorithms, Logic and Discrete Math.
+- 🌱 Batchelor of Science in IT from KTH Royal Institute of Technology.
+- 💞️ Developing programs using Cobol (IBM mainframe, z/OS) at Handelsbanken.
+- 📫 How to reach me tom.kg.karlsson@gmail.com
 
 <!---
 tomkalervo/tomkalervo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
