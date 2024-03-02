@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomkalervo
 - 👀 I’m interested in Algorithms, Logic and Discrete Math.
 - 🌱 Batchelor of Science in IT from KTH Royal Institute of Technology.
-- 💞️ Developing programs using Cobol (IBM mainframe, z/OS) at Handelsbanken.
+- 💞️ System Developer (IBM mainframe, z/OS) at Handelsbanken.
 - 📫 How to reach me tom.kg.karlsson@gmail.com
 
 <!---
