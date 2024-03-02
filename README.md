@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomkalervo
 - 👀 I’m interested in Algorithms, Logic and Discrete Math.
-- 🌱 Batchelor of Science in IT from KTH Royal Institute of Technology.
+- 🌱 Batchelor of Science in Information- and Communication Technology @ KTH, Royal Institute of Technology, Stockholm - Sweden.
 - 💞️ System Developer (IBM mainframe, z/OS) at Handelsbanken.
 - 📫 How to reach me tom.kg.karlsson@gmail.com
 
