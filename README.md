@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomkalervo
-- 👀 I’m interested in Algorithms, Logic and Discrete Math. I have a broad tech stack ranging from C and Java to Python and Elixir.
+- 👀 I’m interested in Algorithms, Logic and Discrete Math. And Programming. And networking. And hardware...
 - 🌱 Bachelor of Science in Information Technology @ KTH, Royal Institute of Technology, Stockholm - Sweden.
 - 💞️ Professional Programmer.
 - 📫 How to reach me tomkarlssonn@bitwise.foo
